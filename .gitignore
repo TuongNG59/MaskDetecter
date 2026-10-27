@@ -1,0 +1,15 @@
+# Môi trường ảo
+venv
+env
+
+# Python cache
+__pycache__
+.pyc
+
+# Data và mô hình huấn luyện
+dataset
+.h5
+.model
+
+# Cache của Jupyter Notebook
+.ipynb_checkpoints
