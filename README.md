@@ -1,4 +1,4 @@
-# Real-Time Face Mask Detector (Hệ Thống Nhận Diện Khấu Trang)
+# Hệ thống nhận diện ai đeo hoặc không deo khẩu trang
 
 Hệ thống nhận diện đeo khẩu trang thời gian thực sử dụng Deep Learning (**MobileNetV2**) kết hợp **OpenCV**.
 
